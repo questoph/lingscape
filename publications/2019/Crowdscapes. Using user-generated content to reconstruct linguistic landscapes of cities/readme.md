@@ -2,5 +2,5 @@ This folder contains the data and code used for the publication **"Crowdscapes. 
 
 It contains the following files:
 
-- **plot_carto_maps.ipynb** – A Jupyter notebook used to plot maps and retrieve basisc statistics
+- **plot_carto_maps.ipynb** – A Jupyter notebook used to plot maps and retrieve basic statistics
 - **pins_data-2019-04.csv** – A customized data file of all upolads to Lingscape (April 2019)
