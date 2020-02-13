@@ -1,6 +1,6 @@
 This folder contains the data and code used for a publication that is currently under review and can be referenced as follows:
 
-Purschke, Christoph (forthcoming): **Using crowdsourced data to explore the linguistic landscape of cities. Results from the participatory research project _Lingscape_.** In: Brunn, Stanley / Kehrein, Roland (Hrsg.): *Handbook of the Changing World Language Map.* Heidelberg: Springer.
+Purschke, Christoph (forthcoming): **Using crowdsourced data to explore the linguistic landscape of cities. Results from the participatory research project _Lingscape_.** In: Brunn, Stanley / Kehrein, Roland (eds.): *Handbook of the Changing World Language Map.* Heidelberg: Springer.
 
 It contains the following files:
 
